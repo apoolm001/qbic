@@ -1,3 +1,6 @@
-"scripts": {
-   "start": "ls -al"
-},
+{
+  "name": "qbic",
+  "scripts": {
+    "start": "ls -al"
+  }
+}
